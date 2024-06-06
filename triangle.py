@@ -1,4 +1,6 @@
 """
+Version 1.0
+Author: wuhaodes@qq.com
 this is a triangle program
 """
 
